@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c83c408-f954-4c81-a273-72d44ecf3873" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4c83c408-f954-4c81-a273-72d44ecf3873" name="Changes" comment="as">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/Test/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/exception/EmptyCollectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/adt/MengdeADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/kjedet/KjedetIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/kjedet/KjedetMengde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/kjedet/LinearNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/Bingokule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/KlientBingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/Ordliste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/Ordliste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/Ordliste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/klient/Ordliste4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/tabell/TabellIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig2/src/Oblig2/Oving4/mengde/tabell/TabellMengde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dat102.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dat102.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oblig2/TestOrdnetListe/no/hvl/dat102/OrdnetListeADTTest/ListeADTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig2/TestOrdnetListe/no/hvl/dat102/OrdnetListeADTTest/ListeADTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/Oblig2/DobbelKjedetListe/Klient/DobbelKjedetListeKlient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/Oblig2/DobbelKjedetListe/Klient/DobbelKjedetListeKlient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/Oblig2/KjedetListe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/Oblig2/KjedetListe/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/no/hvl/dat102/OrdnetListeADTTest/ListeADTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/no/hvl/dat102/OrdnetListeADTTest/ListeADTTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,64 +61,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/olive/IdeaProjects/Oblig2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/olive/IdeaProjects/Dat102/Oblig2/src/Oblig2/Mengde",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olive\IdeaProjects\Dat102\Oblig2\src\Oblig2\Mengde" />
       <recent name="C:\Users\olive\IdeaProjects\Oblig2" />
       <recent name="C:\Users\olive\IdeaProjects\Oblig2\src\Oblig2" />
       <recent name="C:\Users\olive\IdeaProjects\Oblig1\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olive\IdeaProjects\Dat102" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.no.hvl.dat102.KjedetOrdnetListeTest in Oblig2">
-    <configuration name="TabellOrdnetListeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oblig2.Oving4.Main" />
       <module name="Oblig2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="no.hvl.dat102.TabellOrdnetListeTest.*" />
+          <option name="PATTERN" value="Oblig2.Oving4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="no.hvl.dat102.TabellOrdnetListeTest" />
-      <option name="MAIN_CLASS_NAME" value="no.hvl.dat102.TabellOrdnetListeTest.TabellOrdnetListeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oblig2.Oving4.Test in Oblig2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oblig2.Oving4.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Oblig2.Oving4.Test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oblig2.Oving4.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Oblig2.Oving4.Test" />
+      <option name="MAIN_CLASS_NAME" value="Oblig2.Oving4.Test.Testing" />
+      <option name="METHOD_NAME" value="testUnion" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no.hvl.dat102.KjedetOrdnetListeTest in Oblig2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Testing.testToArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Oblig2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="no.hvl.dat102.KjedetOrdnetListeTest.*" />
+          <option name="PATTERN" value="Oblig2.Oving4.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="no.hvl.dat102.KjedetOrdnetListeTest" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="Oblig2.Oving4.Test" />
+      <option name="MAIN_CLASS_NAME" value="Oblig2.Oving4.Test.Testing" />
+      <option name="METHOD_NAME" value="testToArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing.testUnion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oblig2.Oving4.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Oblig2.Oving4.Test" />
+      <option name="MAIN_CLASS_NAME" value="Oblig2.Oving4.Test.Testing" />
+      <option name="METHOD_NAME" value="testUnion" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.no.hvl.dat102.KjedetOrdnetListeTest in Oblig2" />
-        <item itemvalue="JUnit.TabellOrdnetListeTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Testing.testUnion" />
+        <item itemvalue="JUnit.Testing" />
+        <item itemvalue="JUnit.Oblig2.Oving4.Test in Oblig2" />
+        <item itemvalue="JUnit.Testing.testToArray" />
       </list>
     </recent_temporary>
   </component>
@@ -102,8 +187,18 @@
       <workItem from="1678976104682" duration="81000" />
       <workItem from="1678976239547" duration="3573000" />
       <workItem from="1679161442703" duration="406000" />
-      <workItem from="1679328633123" duration="354000" />
+      <workItem from="1679328633123" duration="1090000" />
+      <workItem from="1679338968742" duration="2514000" />
+      <workItem from="1679341690662" duration="5848000" />
     </task>
+    <task id="LOCAL-00001" summary="as">
+      <created>1679329045050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679329045050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +214,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="as" />
+    <option name="LAST_COMMIT_MESSAGE" value="as" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

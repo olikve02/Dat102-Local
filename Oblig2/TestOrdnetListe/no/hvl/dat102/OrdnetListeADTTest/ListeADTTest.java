@@ -79,7 +79,7 @@ public abstract class ListeADTTest {
 	}
 
 	@Test
-	public final void viseOrdnetIkkeÿkende() {
+	public final void viseOrdnetIkkeokende() {
 		try {
 			liste.leggTil(e1);
 			liste.leggTil(e2);
